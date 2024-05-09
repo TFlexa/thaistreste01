@@ -8,17 +8,9 @@
     "build": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Thais-Silva27/Modulo_21_Interestelar/upload/main"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Thais-Silva27/Modulo_21_Interestelar/upload/main"
-  },
-  "homepage": "https://github.com/Thais-Silva27/Modulo_21_Interestelar/upload/main",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-build": "^0.5.3",
